@@ -32,5 +32,39 @@ Built with data visualization, filtering, and reporting capabilities, this syste
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CareerPathwaySystem.git
-cd CareerPathwaySystem
+https://github.com/sairamlaxmanreddy-burugapalli/Career-pathway-recommender-system.git
+```
+navigate to the directory
+Open the project in your IDE (e.g., IntelliJ IDEA, Eclipse)
+
+Add required dependencies
+If using Maven:
+```bash
+<!-- In your pom.xml -->
+<dependencies>
+    <!-- Add JDBC, PDF export, Apache POI, etc., as needed -->
+</dependencies>
+```
+##Usage
+To compile and run
+```bash
+javac -cp .;lib/* src/com/team2/CareerRecommenderApp.java
+java -cp .;lib/* src/com/team2/CareerRecommenderApp
+```
+##Live Dashboard
+coming soon
+
+##Dashboard Preview
+Coming soon
+
+##Contributing
+pull requests are welcome
+For major changes, please open an issue first to discuss your ideas.
+
+##License
+MIT License
+
+##Acknowledgements
+Tableau and Power BI for powerful visualizations
+
+Team 2: Sunil, TharunTeja, Venkateswarlu, Sairamlaxman, Anusha

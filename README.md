@@ -65,15 +65,16 @@ Load the CSV files from the /data folder
 
 Interact with the dashboards or publish to Power BI Service for web access
 
-##🛠️ Installation Requirements
+🛠️ Installation Requirements
+---
 Microsoft Power BI Desktop
 
 Web browser (for viewing embedded dashboard)
 
 Excel (for traceability matrix and data previews)
----
 
-##🤝 Contributing
+🤝 Contributing
+---
 We welcome contributions to improve or extend the system.
 
 Report issues via GitHub Issues
@@ -81,19 +82,22 @@ Report issues via GitHub Issues
 Submit feature suggestions or pull requests
 
 Ensure data privacy when adding new datasets
----
 
-##📜 License
+
+📜 License
+---
 This project is licensed under the MIT License. Feel free to use, share, and modify with attribution.
----
 
-##🙏 Acknowledgements
+
+🙏 Acknowledgements
+---
 Power BI and Tableau for powerful visualization capabilities
 
 All open-source contributors and dataset simulation tools
----
 
-##Team 2 Members:
+
+Team 2 Members:
+---
 
 Sunil
 

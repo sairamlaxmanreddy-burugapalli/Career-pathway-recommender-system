@@ -4,7 +4,7 @@ A comprehensive system to guide job seekers through personalized career recommen
 
 ---
 
-## Project Description
+##Project Description
 
 The Career Pathway Recommender System analyzes historical job market data to help users:
 - Discover career paths that align with their skills and preferences
@@ -71,6 +71,7 @@ Microsoft Power BI Desktop
 Web browser (for viewing embedded dashboard)
 
 Excel (for traceability matrix and data previews)
+---
 
 ##🤝 Contributing
 We welcome contributions to improve or extend the system.
@@ -80,14 +81,17 @@ Report issues via GitHub Issues
 Submit feature suggestions or pull requests
 
 Ensure data privacy when adding new datasets
+---
 
 ##📜 License
 This project is licensed under the MIT License. Feel free to use, share, and modify with attribution.
+---
 
 ##🙏 Acknowledgements
 Power BI and Tableau for powerful visualization capabilities
 
 All open-source contributors and dataset simulation tools
+---
 
 ##Team 2 Members:
 

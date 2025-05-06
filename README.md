@@ -57,7 +57,7 @@ Usage
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Career-Pathway-Recommender-System.git
+git clone https://github.com/sairamlaxmanreddy-burugapalli/Career-pathway-recommender-system.git
 Open the Power BI .pbix file from the /dashboard folder
 ```
 

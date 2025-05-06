@@ -28,43 +28,77 @@ Built with data visualization, filtering, and reporting capabilities, this syste
 
 ---
 
-## Installation
+Career-Pathway-Recommender-System/
+│
+├── data/ # CSV datasets (jobs, salaries, skills, etc.)
+├── dashboard/ # Power BI (.pbix) files
+├── reports/ # Documentation (charters, ER diagrams, traceability matrix)
+├── presentations/ # Technical & Reflection slide decks
+├── code/ # HTML dashboard embed and optional integrations
+└── README.md # Project overview and documentation
 
-1. Clone the repository:
-```bash
-https://github.com/sairamlaxmanreddy-burugapalli/Career-pathway-recommender-system.git
+
+
+
+---
+
+## 🚀 Live Dashboard
+
+Explore our fully interactive dashboard here:
+
+[🔗 Click to View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTA0ZmE0NGItMGYzNi00ZjQ4LTlmMTQtZTBmYTk4OTIwYWI3IiwidCI6Ijc5Zjg4ODVjLTllM2MtNGVkNy05NzM2LTQ0M2VlMGQ4ZDRlYSIsImMiOjF9)
+
+> Or embed it directly into your web application using the following iframe:
+
+```html
+<iframe title="Team 2_dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTA0ZmE0NGItMGYzNi00ZjQ4LTlmMTQtZTBmYTk4OTIwYWI3IiwidCI6Ijc5Zjg4ODVjLTllM2MtNGVkNy05NzM2LTQ0M2VlMGQ4ZDRlYSIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
 ```
-navigate to the directory
-Open the project in your IDE (e.g., IntelliJ IDEA, Eclipse)
+Usage
+Clone the repository:
 
-Add required dependencies
-If using Maven:
 ```bash
-<!-- In your pom.xml -->
-<dependencies>
-    <!-- Add JDBC, PDF export, Apache POI, etc., as needed -->
-</dependencies>
+git clone https://github.com/yourusername/Career-Pathway-Recommender-System.git
+Open the Power BI .pbix file from the /dashboard folder
 ```
-##Usage
-To compile and run
-```bash
-javac -cp .;lib/* src/com/team2/CareerRecommenderApp.java
-java -cp .;lib/* src/com/team2/CareerRecommenderApp
-```
-##Live Dashboard
-coming soon
 
-##Dashboard Preview
-Coming soon
+Load the CSV files from the /data folder
 
-##Contributing
-pull requests are welcome
-For major changes, please open an issue first to discuss your ideas.
+Interact with the dashboards or publish to Power BI Service for web access
 
-##License
-MIT License
+###🛠️ Installation Requirements
+Microsoft Power BI Desktop
 
-##Acknowledgements
-Tableau and Power BI for powerful visualizations
+Web browser (for viewing embedded dashboard)
 
-Team 2: Sunil, TharunTeja, Venkateswarlu, Sairamlaxman, Anusha
+Excel (for traceability matrix and data previews)
+
+###🤝 Contributing
+We welcome contributions to improve or extend the system.
+
+Report issues via GitHub Issues
+
+Submit feature suggestions or pull requests
+
+Ensure data privacy when adding new datasets
+
+###📜 License
+This project is licensed under the MIT License. Feel free to use, share, and modify with attribution.
+
+###🙏 Acknowledgements
+Power BI and Tableau for powerful visualization capabilities
+
+All open-source contributors and dataset simulation tools
+
+###Team 2 Members:
+
+Sunil
+
+TharunTeja
+
+Venkateswarlu
+
+Sairamlaxman
+
+Anusha
+
+
